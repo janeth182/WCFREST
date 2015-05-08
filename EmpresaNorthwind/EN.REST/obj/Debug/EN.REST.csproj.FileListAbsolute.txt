@@ -1,0 +1,16 @@
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.REST.dll.config
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.REST.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.REST.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.BussinessEntity.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.BussinessLogic.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.Interfaces.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.DataAccess.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.Adapters.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.BussinessEntity.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.BussinessLogic.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.Interfaces.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.DataAccess.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\bin\EN.Adapters.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\obj\Debug\EN.REST.csprojResolveAssemblyReference.cache
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\obj\Debug\EN.REST.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.REST\obj\Debug\EN.REST.pdb

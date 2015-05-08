@@ -1,0 +1,5 @@
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Adapters\bin\Debug\EN.Adapters.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Adapters\bin\Debug\EN.Adapters.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Adapters\obj\Debug\EN.Adapters.csprojResolveAssemblyReference.cache
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Adapters\obj\Debug\EN.Adapters.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Adapters\obj\Debug\EN.Adapters.pdb

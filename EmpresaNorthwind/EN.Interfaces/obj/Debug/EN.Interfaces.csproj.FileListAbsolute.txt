@@ -1,0 +1,7 @@
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Interfaces\bin\Debug\EN.Interfaces.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Interfaces\bin\Debug\EN.Interfaces.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Interfaces\bin\Debug\EN.BussinessEntity.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Interfaces\bin\Debug\EN.BussinessEntity.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Interfaces\obj\Debug\EN.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Interfaces\obj\Debug\EN.Interfaces.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.Interfaces\obj\Debug\EN.Interfaces.pdb

@@ -1,0 +1,11 @@
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\bin\Debug\EN.BussinessLogic.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\bin\Debug\EN.BussinessLogic.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\bin\Debug\EN.BussinessEntity.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\bin\Debug\EN.DataAccess.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\bin\Debug\EN.Adapters.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\bin\Debug\EN.BussinessEntity.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\bin\Debug\EN.DataAccess.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\bin\Debug\EN.Adapters.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\obj\Debug\EN.BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\obj\Debug\EN.BussinessLogic.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessLogic\obj\Debug\EN.BussinessLogic.pdb

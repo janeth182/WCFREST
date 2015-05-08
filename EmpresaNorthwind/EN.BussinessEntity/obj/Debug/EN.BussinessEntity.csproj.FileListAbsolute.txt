@@ -1,0 +1,4 @@
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessEntity\bin\Debug\EN.BussinessEntity.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessEntity\bin\Debug\EN.BussinessEntity.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessEntity\obj\Debug\EN.BussinessEntity.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.BussinessEntity\obj\Debug\EN.BussinessEntity.pdb

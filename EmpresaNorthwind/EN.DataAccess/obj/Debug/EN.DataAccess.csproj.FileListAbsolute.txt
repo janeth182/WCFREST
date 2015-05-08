@@ -1,0 +1,9 @@
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\bin\Debug\EN.DataAccess.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\bin\Debug\EN.DataAccess.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\bin\Debug\EN.Adapters.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\bin\Debug\EN.BussinessEntity.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\bin\Debug\EN.Adapters.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\bin\Debug\EN.BussinessEntity.pdb
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\obj\Debug\EN.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\obj\Debug\EN.DataAccess.dll
+C:\Users\yaneth\Documents\Visual Studio 2013\Projects\EmpresaNorthwind\EN.DataAccess\obj\Debug\EN.DataAccess.pdb

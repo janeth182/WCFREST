@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="EN.REST.ENorthwind" CodeBehind="ENorthwind.svc.cs" %>
